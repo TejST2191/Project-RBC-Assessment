@@ -1,5 +1,5 @@
 # Project-RBC-Assessment
-BE Assessment
+
 This application was developed to demonstrate the use of stock related data using Spring Boot and MongoDB
 
 Technologies Used
